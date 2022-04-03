@@ -1,0 +1,13 @@
+.gradient {
+  background: -webkit-linear-gradient(blue, green);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#id::first-letter {
+  font-weight: bold;
+}
+
+#class::first-letter {
+  font-style: italic;
+}
